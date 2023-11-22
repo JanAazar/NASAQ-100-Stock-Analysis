@@ -5,7 +5,7 @@ Analysis of NASDAQ 100 equities in Tableau using data collected from Alpha Vanta
 
 This project focuses on real-time stock analysis for the Nasdaq-100 index, utilizing a tech stack comprising Python, Numpy, Tableau, Airflow, Docker, and PostgreSQL. The goal is to gather financial metrics via the Alpha Vantage API, conduct data preprocessing using Numpy and Pandas, and present key insights through an interactive Tableau dashboard. Additionally, Apache Airflow is employed for automated data ingestion, eliminating manual updates and ensuring timely analysis.
 
-##Features
+## Features
 
 + Alpha Vantage API Integration: Utilized the Alpha Vantage API to gather real-time financial metrics for Nasdaq-100 stocks.
 + Data Preprocessing with Numpy and Pandas: Conducted comprehensive data preprocessing using Numpy and Pandas to clean and structure the gathered financial data for further analysis.
